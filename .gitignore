@@ -1,1 +1,11 @@
 images
+.vscode
+buildroot-2022.02
+*.tmp
+.br2-external.*
+.config.old
+build
+per-package
+host
+staging
+target
